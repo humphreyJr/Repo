@@ -6,6 +6,9 @@ use Illuminate\Http\Request;
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
 
+use DB;
+use Mail;
+
 class ContactController extends Controller
 {
     /**
@@ -13,9 +16,20 @@ class ContactController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function index( Request $request )
     {
-        //
+		$contact_name = $request->get('contact_name');      
+		$contact_email = $request->get('contact_email');
+		$contact_message = $request->get('contact_message');
+
+		$body = 'Contact Name: ' . $contact_name . "\n";
+		$body .= 'Contact Email: ' . $contact_email . "\n";
+		$body .= 'Messsage: ' . $contact_message . "\n";
+	    Mail::raw($body, function($message)
+        {
+            $message->from('info@slashmyfees.com');
+            $message->to(['phoenixD112@yahoo.com', 'bryan@slashmyfees.com'])->subject('Contact From SlashMyFees');
+        }); 
     }
 
     /**

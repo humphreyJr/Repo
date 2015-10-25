@@ -23,3 +23,6 @@ Route::post('registration', 'RegisterController@index');
 
 Route::get('sign_in', 'SignInController@index');
 
+Route::post('contact', 'ContactController@index');
+
+Route::get('/secure/user', 'UserAdminController@index');

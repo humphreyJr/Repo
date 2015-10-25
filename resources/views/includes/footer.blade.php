@@ -46,5 +46,20 @@
     <script src="/js/plugins/validator/jquery.form-validator.min.js"></script>
     <script src="/js/plugins/wow/wow.min.js"></script>
     <script src="/js/main.js"></script>
+
+	<script>
+		$( document ).ready(function() {
+
+			$('#contact_button').click(function() {
+
+				var contact_name = $('#contact_name').val();	
+				var contact_email = $('#contact_email').val();
+				var contact_message = $('#message').val();
+				$.post("/contact", { contact_name: contact_name, contact_email: contact_email, contact_message: contact_message});
+
+				alert('Thank You For Contact Us');
+			});
+		});
+	</script>
   </body>
 </html>

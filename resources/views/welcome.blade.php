@@ -31,7 +31,7 @@
                 <div class="form-group">                      
                   <input type="email" id="confirmMail" name="confirmemail" data-validation="email" class="form-control input-lg" style="background-color: #fff; color: #000" placeholder="Confirm Email">
                 </div>
-                <button type="submit" class="btn btn-success btn-block btn-lg" style="background-color: #DAA520">Sign Up</button>
+                <button type="submit" class="btn btn-success btn-block btn-lg" style="background-color: #e86c00; border-color: #e86c00;">Sign Up</button>
 			 	<p style="padding-top: 10px; text-align: left;">By signing up you agree to the terms of service.</p>
               </form>
             </div>
@@ -307,32 +307,23 @@
 					<div style="padding-left: 20px;">
 						<h2 class="text-left">Contact Us</h2>
 						<div class="row">
-							<div class="col-md-2">
-								Name:
-							</div>
-							<div class="col-md-10">
-								<input type="text">	
+							<div class="col-md-6">
+								<input type="text" id="contact_name" name="contact_name" class="form-control input-lg" placeholder="Name">	
 							</div>
 						</div>
 						<div class="row" style="padding-top: 10px;">
-							<div class="col-md-2">
-								Email:	
-							</div>
-							<div class="col-md-10">
-								<input type="text">	
+							<div class="col-md-6">
+								<input type="text" id="contact_email" name="contact_email" class="form-control input-lg" placeholder="Email">	
 							</div>
 						</div>
 						<div class="row" style="padding-top: 10px;">
-							<div class="col-md-2">
-								Message:	
-							</div>
-							<div class="col-md-10">
-								<textarea colspan="4" rowspan="10"></textarea>
+							<div class="col-md-6">
+								<textarea id="message" colspan="4" rowspan="10" class="form-control input-lg" placeholder="Message"></textarea>
 							</div>
 						</div>
 						<div class="row" style="padding-top: 10px;">
 							<div class="col-md-4">
-								<button>Contact Us</button>	
+								<button class="btn btn-lg btn-primary" id="contact_button" style="text-transform: uppercase; background-color: #e86c00; border-color: #e86c00;">Contact Us</button>	
 							</div>
 						</div>
 					</div>

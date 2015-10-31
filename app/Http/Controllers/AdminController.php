@@ -13,9 +13,12 @@ class AdminController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function index( Request $request )
     {
-        //
+        $data = array();
+        $data['page'] = 'home';
+
+        return view('admin.index')->with( $data ); 
     }
 
     /**

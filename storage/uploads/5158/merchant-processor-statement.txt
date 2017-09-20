@@ -1,0 +1,625 @@
+STATEMENT CYCLE CUTOFF                                                                                                         Y
+LOGO DESCRIPTION  STATEMENT DATE DBA NAME                                                                                      Y
+                  01/31/2016     COMPANY XXX                                                                                   Y
+                                                                                                                               Y
+PRINCIPAL CHAIN                  MERCHANT NAME COMPANY XXX                                                                     Y
+PARENT CHAIN                     ATTENTION                                                                                     Y
+PARENT ENTITY   42152            ADDRESS       16XXX MAIN AVE STE XXX                                                          Y
+                                               MIAMI                                                                           Y
+RETURN ADDRESS                                 FL, 331304238, USA                                                              Y
+NATIONAL TRANSACTION CORP                                                                                                      Y
+11951 NW 37 ST                                                                                                                 Y
+CORAL SPRINGS                                                                                                                  Y
+FL, 33065,     USA                                                                                                             Y
+                                                                                                                               Y
+                                                                                                                               Y
+                 FOR CUSTOMER SERVICE PLEASE CALL   888-996-2273                                                               Y
+                                                                                                                               Y
+                                                                                                                               Y
+                                                                                                                               Y
+STATEMENT DATE: 2016-01-31                                                                                                     Y
+STATEMENT MESSAGE: 003                                                                                                         Y
+HAVE YOU UPGRADED TO A CHIP CARD-ENABLED TERMINAL? IF NOT, YOUR BUSINESS                                                       Y
+COULD BE LIABLE FOR COUNTERFEIT CARD FRAUD. IT'S NOT TOO LATE TO MAKE THE                                                      Y
+SWITCH! WE ARE STANDING BY TO HELP ENSURE YOUR BUSINESS AVOIDS THIS CARD                                                       Y
+FRAUD RISK. CALL YOUR REPRESENTATIVE TODAY TO DISCUSS UPGRADE OPTIONS.                                                         Y
+                                                                                                                               Y
+                                                                                                                               Y
+SUMMARY                                                                                                                        Y
+                                                                                                                               Y
+                # OF ITEMS    DOLLAR AMOUNTS  FEE/CHRG CAT.   FEES SUMMARY                                                     Y
+SALES                17,087         219,708.35 CREDIT CARD             5,384.63                                                Y
+RETURNS                   2              20.00 EBT                         0.00                                                Y
+NET SALES            17,089         219,688.35 PIN DEBIT                   0.00                                                Y
+CHARGEBACKS              52            -440.00 AMERICN EXPRES              0.00                                                Y
+ADJUSTMENTS               0               0.00 AMER EXPRESS                0.00                                                Y
+REBATE ADJ                0               0.00 OTHER TXN                 540.00                                                Y
+CONV ADJ                  0               0.00 MONEY MANAGER               0.00                                                Y
+ TOTAL SALES         17,141         219,248.35 CARD MIN BILL               0.00                                                Y
+                                               DEBIT MIN BILL              0.00                                                Y
+                                               ELEC CHECK                  0.00                                                Y
+                                               ECS MIN BILL                0.00                                                Y
+                                               CARD ASSOC FEE            695.12                                                Y
+ CHARGES AND FEES HAVE BEEN POSTED             AUTH FEES               3,443.58                                                Y
+ TO ACCOUNT #: XXXXXXXXX0970                   OTHER FEES                 72.50                                                Y
+                                               NET CHRG/FEE           10,135.83                                                Y
+VOLUME RECAP                                                                                                                   Y
+                                                                                                                               Y
+CARD TYPE VISA                                                                                                                 Y
+    SALES ITEMS   SALES AMOUNT         CREDIT ITEMS      CREDIT AMOUNT                                                         Y
+         13,573         173,015.00                2                 20.00                                                      Y
+                                                                                                                               Y
+                 NET SALES AMOUNT      DISCOUNT PAID     PER ITEM PAID                                                         Y
+                        172,995.00            4,170.69             135.30                                                      Y
+                                                                                                                               Y
+CARD TYPE MASTERCARD                                                                                                           Y
+    SALES ITEMS   SALES AMOUNT         CREDIT ITEMS      CREDIT AMOUNT                                                         Y
+          3,203          40,730.00                0                  0.00                                                      Y
+                                                                                                                               Y
+                 NET SALES AMOUNT      DISCOUNT PAID     PER ITEM PAID                                                         Y
+                         40,730.00              948.32              51.00                                                      Y
+                                                                                                                               Y
+CARD TYPE DISCOVER ACQUIRING                                                                                                   Y
+    SALES ITEMS   SALES AMOUNT         CREDIT ITEMS      CREDIT AMOUNT                                                         Y
+            138           3,328.35                0                  0.00                                                      Y
+                                                                                                                               Y
+                 NET SALES AMOUNT      DISCOUNT PAID     PER ITEM PAID                                                         Y
+                          3,328.35               78.12               1.20                                                      Y
+                                                                                                                               Y
+CARD TYPE AMERICAN EXPRESS                                                                                                     Y
+    SALES ITEMS   SALES AMOUNT         CREDIT ITEMS      CREDIT AMOUNT                                                         Y
+            173           2,635.00                0                  0.00                                                      Y
+                                                                                                                               Y
+                 NET SALES AMOUNT      DISCOUNT PAID     PER ITEM PAID                                                         Y
+                          2,635.00                0.00               0.00                                                      Y
+DEPOSITS                                                                                                                       Y
+                                                                                                                               Y
+MERCHANT RECEIVES : SUMMARY                                                                                                    N
+BATCH DT: 01/01/2016 SETLMNT DT: 01/01/2016 REF #: 26001042956 BATCH: 00972                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                 12,320.00              135.00            12,455.00                                                     Y
+   VISA                 10,205.00                                                                                              N
+   M/C                   2,075.00                                                                                              N
+   DISC                     40.00                                                                                              N
+   AMEX                      0.00              135.00                                                                          N
+BATCH DT: 01/01/2016 SETLMNT DT: 01/01/2016 REF #: 26001043906 BATCH: 00973                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  7,075.00               40.00             7,115.00                                                     Y
+   VISA                  5,840.00                                                                                              N
+   M/C                   1,185.00                                                                                              N
+   DISC                     50.00                                                                                              N
+   AMEX                      0.00               40.00                                                                          N
+BATCH DT: 01/02/2016 SETLMNT DT: 01/02/2016 REF #: 15002561691 BATCH: 00974                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  7,840.00              160.00             8,000.00                                                     Y
+   VISA                  6,385.00                                                                                              N
+   M/C                   1,385.00                                                                                              N
+   DISC                     70.00                                                                                              N
+   AMEX                      0.00              160.00                                                                          N
+BATCH DT: 01/03/2016 SETLMNT DT: 01/03/2016 REF #: 16003914786 BATCH: 00975                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  6,145.00              100.00             6,245.00                                                     Y
+   VISA                  4,925.00                                                                                              N
+   M/C                   1,165.00                                                                                              N
+   DISC                     55.00                                                                                              N
+   AMEX                      0.00              100.00                                                                          N
+BATCH DT: 01/04/2016 SETLMNT DT: 01/04/2016 REF #: 16004027988 BATCH: 00976                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  4,940.00              145.00             5,085.00                                                     Y
+   VISA                  3,820.00                                                                                              N
+   M/C                   1,070.00                                                                                              N
+   DISC                     50.00                                                                                              N
+   AMEX                      0.00              145.00                                                                          N
+BATCH DT: 01/05/2016 SETLMNT DT: 01/05/2016 REF #: 17005466391 BATCH: 00977                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  4,755.00               70.00             4,825.00                                                     Y
+   VISA                  3,640.00                                                                                              N
+   M/C                   1,035.00                                                                                              N
+   DISC                     80.00                                                                                              N
+   AMEX                      0.00               70.00                                                                          N
+BATCH DT: 01/06/2016 SETLMNT DT: 01/06/2016 REF #: 17006181454 BATCH: 00978                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                 10,158.35              140.00            10,298.35                                                     Y
+   VISA                  6,630.00                                                                                              N
+   M/C                   2,030.00                                                                                              N
+   DISC                  1,498.35                                                                                              N
+   AMEX                      0.00              140.00                                                                          N
+BATCH DT: 01/07/2016 SETLMNT DT: 01/07/2016 REF #: 17007010272 BATCH: 00979                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  5,245.00               40.00             5,285.00                                                     Y
+   VISA                  4,010.00                                                                                              N
+   M/C                   1,175.00                                                                                              N
+   DISC                     60.00                                                                                              N
+   AMEX                      0.00               40.00                                                                          N
+BATCH DT: 01/08/2016 SETLMNT DT: 01/08/2016 REF #: 17008338193 BATCH: 00980                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  6,610.00               70.00             6,680.00                                                     Y
+   VISA                  5,575.00                                                                                              N
+   M/C                   1,035.00                                                                                              N
+   AMEX                      0.00               70.00                                                                          N
+BATCH DT: 01/09/2016 SETLMNT DT: 01/09/2016 REF #: 26009015508 BATCH: 00981                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  7,540.00               10.00             7,550.00                                                     Y
+   VISA                  6,120.00                                                                                              N
+   M/C                   1,280.00                                                                                              N
+   DISC                    140.00                                                                                              N
+   AMEX                      0.00               10.00                                                                          N
+BATCH DT: 01/10/2016 SETLMNT DT: 01/10/2016 REF #: 16010900742 BATCH: 00982                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  8,155.00               20.00             8,175.00                                                     Y
+   VISA                  6,825.00                                                                                              N
+   M/C                   1,285.00                                                                                              N
+   DISC                     45.00                                                                                              N
+   AMEX                      0.00               20.00                                                                          N
+BATCH DT: 01/11/2016 SETLMNT DT: 01/11/2016 REF #: 15011608819 BATCH: 00983                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  5,740.00               70.00             5,810.00                                                     Y
+   VISA                  4,310.00                                                                                              N
+   M/C                   1,400.00                                                                                              N
+   DISC                     30.00                                                                                              N
+   AMEX                      0.00               70.00                                                                          N
+BATCH DT: 01/12/2016 SETLMNT DT: 01/12/2016 REF #: 17012049588 BATCH: 00984                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  5,560.00               60.00             5,620.00                                                     Y
+   VISA                  4,445.00                                                                                              N
+   M/C                   1,045.00                                                                                              N
+   DISC                     70.00                                                                                              N
+   AMEX                      0.00               60.00                                                                          N
+BATCH DT: 01/13/2016 SETLMNT DT: 01/13/2016 REF #: 16013993431 BATCH: 00985                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  5,525.00               60.00             5,585.00                                                     Y
+   VISA                  4,410.00                                                                                              N
+   M/C                   1,055.00                                                                                              N
+   DISC                     60.00                                                                                              N
+   AMEX                      0.00               60.00                                                                          N
+BATCH DT: 01/14/2016 SETLMNT DT: 01/14/2016 REF #: 17014076917 BATCH: 00986                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  6,175.00              110.00             6,285.00                                                     Y
+   VISA                  5,080.00                                                                                              N
+   M/C                   1,045.00                                                                                              N
+   DISC                     50.00                                                                                              N
+   AMEX                      0.00              110.00                                                                          N
+BATCH DT: 01/15/2016 SETLMNT DT: 01/15/2016 REF #: 27015430760 BATCH: 00987                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  6,175.00               50.00             6,225.00                                                     Y
+   VISA                  5,110.00                                                                                              N
+   M/C                   1,045.00                                                                                              N
+   DISC                     20.00                                                                                              N
+   AMEX                      0.00               50.00                                                                          N
+BATCH DT: 01/16/2016 SETLMNT DT: 01/16/2016 REF #: 28016110234 BATCH: 00988                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  7,400.00               60.00             7,460.00                                                     Y
+   VISA                  5,880.00                                                                                              N
+   M/C                   1,440.00                                                                                              N
+   DISC                     80.00                                                                                              N
+   AMEX                      0.00               60.00                                                                          N
+BATCH DT: 01/17/2016 SETLMNT DT: 01/17/2016 REF #: 17017191821 BATCH: 00989                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  8,710.00               60.00             8,770.00                                                     Y
+   VISA                  7,155.00                                                                                              N
+   M/C                   1,395.00                                                                                              N
+   DISC                    160.00                                                                                              N
+   AMEX                      0.00               60.00                                                                          N
+BATCH DT: 01/18/2016 SETLMNT DT: 01/18/2016 REF #: 15018794178 BATCH: 00990                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  6,705.00               90.00             6,795.00                                                     Y
+   VISA                  5,205.00                                                                                              N
+   M/C                   1,445.00                                                                                              N
+   DISC                     55.00                                                                                              N
+   AMEX                      0.00               90.00                                                                          N
+BATCH DT: 01/19/2016 SETLMNT DT: 01/19/2016 REF #: 16019925862 BATCH: 00991                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  6,170.00              170.00             6,340.00                                                     Y
+   VISA                  4,620.00                                                                                              N
+   M/C                   1,480.00                                                                                              N
+   DISC                     70.00                                                                                              N
+   AMEX                      0.00              170.00                                                                          N
+BATCH DT: 01/20/2016 SETLMNT DT: 01/20/2016 REF #: 17020090087 BATCH: 00992                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  5,475.00               65.00             5,540.00                                                     Y
+   VISA                  4,455.00                                                                                              N
+   M/C                     950.00                                                                                              N
+   DISC                     70.00                                                                                              N
+   AMEX                      0.00               65.00                                                                          N
+BATCH DT: 01/21/2016 SETLMNT DT: 01/21/2016 REF #: 17021199580 BATCH: 00993                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  4,205.00              120.00             4,325.00                                                     Y
+   VISA                  3,430.00                                                                                              N
+   M/C                     765.00                                                                                              N
+   DISC                     10.00                                                                                              N
+   AMEX                      0.00              120.00                                                                          N
+BATCH DT: 01/22/2016 SETLMNT DT: 01/22/2016 REF #: 17022689166 BATCH: 00994                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  7,020.00               65.00             7,085.00                                                     Y
+   VISA                  5,885.00                                                                                              N
+   M/C                   1,125.00                                                                                              N
+   DISC                     10.00                                                                                              N
+   AMEX                      0.00               65.00                                                                          N
+BATCH DT: 01/23/2016 SETLMNT DT: 01/23/2016 REF #: 17023572539 BATCH: 00995                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  8,135.00               50.00             8,185.00                                                     Y
+   VISA                  6,345.00                                                                                              N
+   M/C                   1,690.00                                                                                              N
+   DISC                    100.00                                                                                              N
+   AMEX                      0.00               50.00                                                                          N
+BATCH DT: 01/24/2016 SETLMNT DT: 01/24/2016 REF #: 16024379324 BATCH: 00996                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  7,595.00              100.00             7,695.00                                                     Y
+   VISA                  6,120.00                                                                                              N
+   M/C                   1,425.00                                                                                              N
+   DISC                     50.00                                                                                              N
+   AMEX                      0.00              100.00                                                                          N
+BATCH DT: 01/25/2016 SETLMNT DT: 01/25/2016 REF #: 15025470248 BATCH: 00997                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  6,285.00               20.00             6,305.00                                                     Y
+   VISA                  5,045.00                                                                                              N
+   M/C                   1,230.00                                                                                              N
+   DISC                     10.00                                                                                              N
+   AMEX                      0.00               20.00                                                                          N
+BATCH DT: 01/26/2016 SETLMNT DT: 01/26/2016 REF #: 17026106650 BATCH: 00998                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  5,850.00               80.00             5,930.00                                                     Y
+   VISA                  4,540.00                                                                                              N
+   M/C                   1,230.00                                                                                              N
+   DISC                     80.00                                                                                              N
+   AMEX                      0.00               80.00                                                                          N
+BATCH DT: 01/27/2016 SETLMNT DT: 01/27/2016 REF #: 17027177131 BATCH: 00999                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  5,395.00              105.00             5,500.00                                                     Y
+   VISA                  4,235.00                                                                                              N
+   M/C                   1,095.00                                                                                              N
+   DISC                     65.00                                                                                              N
+   AMEX                      0.00              105.00                                                                          N
+BATCH DT: 01/28/2016 SETLMNT DT: 01/28/2016 REF #: 17028265770 BATCH: 00001                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  5,955.00              125.00             6,080.00                                                     Y
+   VISA                  4,820.00                                                                                              N
+   M/C                   1,065.00                                                                                              N
+   DISC                     70.00                                                                                              N
+   AMEX                      0.00              125.00                                                                          N
+BATCH DT: 01/29/2016 SETLMNT DT: 01/29/2016 REF #: 17029732008 BATCH: 00002                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  6,695.00               75.00             6,770.00                                                     Y
+   VISA                  5,375.00                                                                                              N
+   M/C                   1,230.00                                                                                              N
+   DISC                     90.00                                                                                              N
+   AMEX                      0.00               75.00                                                                          N
+BATCH DT: 01/30/2016 SETLMNT DT: 01/30/2016 REF #: 26030379687 BATCH: 00003                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  7,835.00               50.00             7,885.00                                                     Y
+   VISA                  6,305.00                                                                                              N
+   M/C                   1,490.00                                                                                              N
+   DISC                     40.00                                                                                              N
+   AMEX                      0.00               50.00                                                                          N
+BATCH DT: 01/31/2016 SETLMNT DT: 01/31/2016 REF #: 17031328731 BATCH: 00004                                                    Y
+                                                                                                                               Y
+               PAID BY MERCH PAY SERV  PAID BY OTHERS        TOTAL BATCH AMOUNT                                                Y
+  BATCH                  7,665.00              120.00             7,785.00                                                     Y
+   VISA                  6,250.00                                                                                              N
+   M/C                   1,365.00                                                                                              N
+   DISC                     50.00                                                                                              N
+   AMEX                      0.00              120.00                                                                          N
+DEPOSIT TOTALS         217,053.35            2,635.00           219,688.35                                                     Y
+EACH BATCH UNDER "PAID BY MER PAY SERVICES" HAS BEEN POSTED                                                                    Y
+                                            TO ACCOUNT #: XXXXXXXXX0970                                                        Y
+CHARGEBACKS                                                                                                                    Y
+                                                                                                                               Y
+CARD            INTERNAL REF #                          AMOUNT   CHARGEBACK/                                                   Y
+CHARGEBACK REASON (ARCS)                                      TRANSACTION:DATE                                                 Y
+426684******3761    1023389126                          -10.00   2016/01/19                                                    Y
+Pre-Arbitration/Arbitration                                      2015/08/05                                                    Y
+426684******3761    1023389128                          -10.00   2016/01/19                                                    Y
+Pre-Arbitration/Arbitration                                      2015/08/05                                                    Y
+426684******3761    1023389129                          -10.00   2016/01/19                                                    Y
+Pre-Arbitration/Arbitration                                      2015/08/04                                                    Y
+426684******6796    1024043706                          -20.00   2016/01/25                                                    Y
+Fraud-Card Absent Environment                                    2015/10/10                                                    Y
+434258******6839    1024006585                          -10.00   2016/01/19                                                    Y
+Fraud-Card Absent Environment                                    2016/01/13                                                    Y
+434258******6839    1024006612                          -10.00   2016/01/19                                                    Y
+Fraud-Card Absent Environment                                    2016/01/13                                                    Y
+440066******9447    1023943567                          -20.00   2016/01/08                                                    Y
+Duplicate Processing                                             2015/12/30                                                    Y
+473702******8840    1023804869                           10.00   2016/01/29                                                    Y
+MISCELLANEOUS CHARGEBACK FEE                                                                                                   Y
+473702******8840    1023804870                           10.00   2016/01/29                                                    Y
+MISCELLANEOUS CHARGEBACK FEE                                                                                                   Y
+473702******8840    1023804871                           10.00   2016/01/29                                                    Y
+MISCELLANEOUS CHARGEBACK FEE                                                                                                   Y
+473702******8840    1023804872                           10.00   2016/01/29                                                    Y
+MISCELLANEOUS CHARGEBACK FEE                                                                                                   Y
+473702******8840    1023804873                           10.00   2016/01/29                                                    Y
+MISCELLANEOUS CHARGEBACK FEE                                                                                                   Y
+473702******8840    1023804878                           10.00   2016/01/29                                                    Y
+MISCELLANEOUS CHARGEBACK FEE                                                                                                   Y
+473702******8840    1023804879                           10.00   2016/01/29                                                    Y
+MISCELLANEOUS CHARGEBACK FEE                                                                                                   Y
+473702******8840    1023804935                           10.00   2016/01/29                                                    Y
+MISCELLANEOUS CHARGEBACK FEE                                                                                                   Y
+473702******8840    1023804936                           10.00   2016/01/29                                                    Y
+MISCELLANEOUS CHARGEBACK FEE                                                                                                   Y
+473702******8840    1023804937                           10.00   2016/01/29                                                    Y
+MISCELLANEOUS CHARGEBACK FEE                                                                                                   Y
+473702******8840    1023804938                           10.00   2016/01/29                                                    Y
+MISCELLANEOUS CHARGEBACK FEE                                                                                                   Y
+473702******8840    1023804959                           10.00   2016/01/29                                                    Y
+MISCELLANEOUS CHARGEBACK FEE                                                                                                   Y
+473702******8840    1023804960                           10.00   2016/01/29                                                    Y
+MISCELLANEOUS CHARGEBACK FEE                                                                                                   Y
+473702******8840    1023804961                           10.00   2016/01/29                                                    Y
+MISCELLANEOUS CHARGEBACK FEE                                                                                                   Y
+473702******8840    1023804976                           10.00   2016/01/29                                                    Y
+MISCELLANEOUS CHARGEBACK FEE                                                                                                   Y
+473702******8840    1023804979                           10.00   2016/01/29                                                    Y
+MISCELLANEOUS CHARGEBACK FEE                                                                                                   Y
+473702******0071    1023956885                          -10.00   2016/01/11                                                    Y
+Fraud-Card Absent Environment                                    2016/01/06                                                    Y
+473702******6188    1024086516                          -20.00   2016/01/29                                                    Y
+Fraud-Card Absent Environment                                    2016/01/18                                                    Y
+473702******6188    1024086888                          -20.00   2016/01/29                                                    Y
+Fraud-Card Absent Environment                                    2016/01/16                                                    Y
+473702******6188    1024086891                          -20.00   2016/01/29                                                    Y
+Fraud-Card Absent Environment                                    2016/01/15                                                    Y
+473702******6188    1024086892                          -20.00   2016/01/29                                                    Y
+Fraud-Card Absent Environment                                    2016/01/14                                                    Y
+473702******6188    1024086897                          -20.00   2016/01/29                                                    Y
+Fraud-Card Absent Environment                                    2016/01/13                                                    Y
+473702******6188    1024086900                          -10.00   2016/01/29                                                    Y
+Fraud-Card Absent Environment                                    2016/01/16                                                    Y
+473702******6188    1024086901                          -30.00   2016/01/29                                                    Y
+Fraud-Card Absent Environment                                    2016/01/14                                                    Y
+473702******6188    1024086902                          -20.00   2016/01/29                                                    Y
+Fraud-Card Absent Environment                                    2016/01/14                                                    Y
+473702******6188    1024086904                          -10.00   2016/01/29                                                    Y
+Fraud-Card Absent Environment                                    2016/01/18                                                    Y
+473702******6188    1024086905                          -20.00   2016/01/29                                                    Y
+Fraud-Card Absent Environment                                    2016/01/16                                                    Y
+473702******6188    1024086906                          -20.00   2016/01/29                                                    Y
+Fraud-Card Absent Environment                                    2016/01/13                                                    Y
+473702******6188    1024086907                          -20.00   2016/01/29                                                    Y
+Fraud-Card Absent Environment                                    2016/01/13                                                    Y
+473702******6188    1024086911                          -20.00   2016/01/29                                                    Y
+Fraud-Card Absent Environment                                    2016/01/18                                                    Y
+473702******6188    1024086912                          -20.00   2016/01/29                                                    Y
+Fraud-Card Absent Environment                                    2016/01/13                                                    Y
+473702******6188    1024086918                          -10.00   2016/01/29                                                    Y
+Fraud-Card Absent Environment                                    2016/01/12                                                    Y
+473702******5453    1024048174                          -10.00   2016/01/25                                                    Y
+Fraud-Card Absent Environment                                    2016/01/18                                                    Y
+473702******5453    1024048191                          -10.00   2016/01/25                                                    Y
+Fraud-Card Absent Environment                                    2016/01/16                                                    Y
+473702******5453    1024048305                          -10.00   2016/01/25                                                    Y
+Fraud-Card Absent Environment                                    2016/01/16                                                    Y
+473702******7799    1024054869                          -20.00   2016/01/25                                                    Y
+Duplicate Processing                                             2016/01/16                                                    Y
+473702******7799    1024054870                          -30.00   2016/01/25                                                    Y
+Duplicate Processing                                             2016/01/16                                                    Y
+473703******6930    1023969882                          -10.00   2016/01/13                                                    Y
+Fraud-Card Absent Environment                                    2016/01/01                                                    Y
+473703******6930    1023969913                          -20.00   2016/01/13                                                    Y
+Fraud-Card Absent Environment                                    2015/12/30                                                    Y
+473703******6930    1023969942                          -20.00   2016/01/13                                                    Y
+Fraud-Card Absent Environment                                    2016/01/05                                                    Y
+473703******6930    1023969943                          -10.00   2016/01/13                                                    Y
+Fraud-Card Absent Environment                                    2016/01/05                                                    Y
+473703******6930    1023969945                          -20.00   2016/01/13                                                    Y
+Fraud-Card Absent Environment                                    2015/12/31                                                    Y
+473703******6930    1023969952                          -20.00   2016/01/13                                                    Y
+Fraud-Card Absent Environment                                    2016/01/02                                                    Y
+486796******4607    1024053674                          -20.00   2016/01/25                                                    Y
+Fraud-Card Absent Environment                                    2016/01/19                                                    Y
+531260******5141    1023917211                          -20.00   2016/01/11                                                    Y
+No Cardholder Authorization                                      2015/09/14                                                    Y
+                                      TOTALS           -440.00                                                                 Y
+CREDIT CARD CHARGES - SUMMARY                                                                                                  Y
+                                                                                                                               Y
+                                       SALES             ITEM           DISCOUNT   PER ITEM                                    Y
+DESCRIPTION                            AMOUNT            COUNT          RATE       RATE                                        Y
+COMMERCIAL NON-QUALIFIED                     6,370.00            401     3.0000      0.1000                                    Y
+QUALIFIED CHECKCARD                         27,090.00          2,264     2.0500      0.0000                                    Y
+DISCOVER QUALIFIED                           3,138.35            126     2.2900      0.0000                                    Y
+MASTERCARD QUALIFIED                         5,580.00            429     2.2900      0.0000                                    Y
+VISA QUALIFIED                             151,970.00         12,222     2.3000      0.0000                                    Y
+DISCOVER NON QUALIFIED                         190.00             12     3.2900      0.1000                                    Y
+MASTERCARD NON QUALIFIED                     8,060.00            510     3.2900      0.1000                                    Y
+VISA NON QUALIFIED                          14,675.00            952     3.3000      0.1000                                    Y
+SUMMARY                                    217,073.35                                                                          Y
+                         DR                 SALES   DISCOUNT           DISCOUNT            ITEM        ITEM           ITEM     N
+DESCRIPTION              CR                AMOUNT       RATE             CHARGE           COUNT        RATE             CHARGE N
+                                                                                                                               N
+VISA                                                                                                                           N
+ CPS CRD NP                                                                                                                    N
+  VICONSUMER        67    DR              6,215.00     2.3000             142.95             497      0.0000               0.00N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ REWARDS 2                                                                                                                     N
+  VICONSUMER        94    DR             11,068.00     3.3000             365.24             817      0.1000              81.70N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+  VISA SIGN         94    DR              3,607.00     3.3000             119.03             135      0.1000              13.50N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ RTL2 CNP D                                                                                                                    N
+  VI DEBIT          60    DR             13,310.00     2.3000             306.13           1,056      0.0000               0.00N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ COMMCNP B1                                                                                                                    N
+  VI COMMER         02    DR                215.00     3.0000               6.45              13      0.1000               1.30N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ V INTLSTND                                                                                                                    N
+  VICONSUMER        64    DR                 40.00     2.3000               0.92               4      0.0000               0.00N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ VSP CNP                                                                                                                       N
+  VISA SIGN         74    DR              1,085.00     3.0000              32.55              65      0.1000               6.50N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ RTL2CNPD R                                                                                                                    N
+  VI DEBIT          07    DR            127,405.00     2.3000           2,930.32          10,283      0.0000               0.00N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ CR CONSD R                                                                                                                    N
+  VI DEBIT          37    DR                  0.00     0.0000               0.00               0      0.0000               0.00N
+                          CR                 20.00     0.0000               0.00               2      0.0000               0.00N
+ RTL2CNP PP                                                                                                                    N
+  VI DEBIT          36    DR              5,000.00     2.3000             115.00             380      0.0000               0.00N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ CNP BUS DR                                                                                                                    N
+  VI COMMER         84    DR              4,800.00     3.0000             144.00             304      0.1000              30.40N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ COMMCNP B2                                                                                                                    N
+  VI COMMER         02    DR                 10.00     3.0000               0.30               1      0.1000               0.10N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ COMMCNP B3                                                                                                                    N
+  VI COMMER         07    DR                 10.00     3.0000               0.30               1      0.1000               0.10N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ CNP BUSDB                                                                                                                     N
+  VI COMMER         36    DR                230.00     3.0000               6.90              16      0.1000               1.60N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ COMMCNP B4                                                                                                                    N
+  VI COMMER         92    DR                 20.00     3.0000               0.60               1      0.1000               0.10N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+                                                                                                                               N
+M/C                                                                                                                            N
+ MERIT I                                                                                                                       N
+  M/C CONSUM        21    DR              5,580.00     2.2900             127.78             429      0.0000               0.00N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ M INTLSTND                                                                                                                    N
+  M/C CONSUM        30    DR                 70.00     3.2900               2.30               7      0.1000               0.70N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ MCW MERITI                                                                                                                    N
+  WORLD CARD        21    DR              1,730.00     3.2900              56.92              62      0.1000               6.20N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ MWE MERITI                                                                                                                    N
+  WORLD CARD        34    DR                565.00     3.2900              18.59              19      0.1000               1.90N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ MERIT 1  D                                                                                                                    N
+  M/C DEBIT         21    DR              5,500.00     2.0500             112.75             476      0.0000               0.00N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ ENH MERITI                                                                                                                    N
+  WORLD CARD        21    DR                120.00     3.2900               3.95               6      0.1000               0.60N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+  M/C CONSUM        21    DR              3,875.00     3.2900             127.49             284      0.1000              28.40N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ MER1 DRF                                                                                                                      N
+  M/C DEBIT         08    DR             19,020.00     2.0500             389.91           1,588      0.0000               0.00N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ DATA I DRF                                                                                                                    N
+  M/C COMMER        48    DR              1,055.00     3.2900              34.71              73      0.1000               7.30N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ C DATA I B                                                                                                                    N
+  M/C COMMER        45    DR                430.00     3.2900              14.15              39      0.1000               3.90N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ MERIT I PP                                                                                                                    N
+  M/C DEBIT         84    DR              2,570.00     2.0500              52.69             200      0.0000               0.00N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ DATAI B4                                                                                                                      N
+  M/C COMMER        45    DR                 30.00     3.2900               0.99               2      0.1000               0.20N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ DATA I BD                                                                                                                     N
+  M/C COMMER        02    DR                185.00     3.2900               6.09              18      0.1000               1.80N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+                                                                                                                               N
+DISC                                                                                                                           N
+ CNP R                                                                                                                         N
+  DISC CREDT        27    DR              3,138.35     2.2900              71.87             126      0.0000               0.00N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ ELECT COMM                                                                                                                    N
+  DISC COMM         39    DR                160.00     3.2900               5.26              11      0.1000               1.10N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+ CNP P                                                                                                                         N
+  DISC CREDT        52    DR                 30.00     3.2900               0.99               1      0.1000               0.10N
+                          CR                  0.00     0.0000               0.00               0      0.0000               0.00N
+                                                                                                                               N
+SUMMARY                   DR            217,073.35                      5,197.13          16,914                         187.50N
+                          CR                 20.00                          0.00               2                           0.00N
+                          NET           217,053.35                      5,197.13          16,916                         187.50N
+OTHER TRANSACTION CHARGES                                                                                                      Y
+                                                                                                                               Y
+                         DR                 SALES   DISCOUNT           DISCOUNT            ITEM        ITEM           ITEM     Y
+DESCRIPTION              CR                AMOUNT       RATE             CHARGE           COUNT        RATE             CHARGE Y
+                                                                                                                               Y
+AMEX NON-STL           03DR              2,635.00     0.0000               0.00             173      0.0000               0.00 Y
+                         CR                  0.00     0.0000               0.00               0      0.0000               0.00 Y
+                                                                                                                               Y
+CHGB CHARGEBACK        20DR                  0.00     0.0000               0.00               0      0.0000               0.00 Y
+                         CR                600.00     0.0000               0.00              36     15.0000             540.00 Y
+                                                                                                                               Y
+CHGB MISCB FEE         22DR                160.00     0.0000               0.00              16      0.0000               0.00 Y
+                         CR                  0.00     0.0000               0.00               0      0.0000               0.00 Y
+                                                                                                                               Y
+BTCH BATCH HDR         02DR                  0.00     0.0000               0.00              32      0.0000               0.00 Y
+                         CR                  0.00     0.0000               0.00               0      0.0000               0.00 Y
+                                                                                                                               Y
+SUMMARY                  DR              2,795.00                          0.00             221                           0.00 Y
+                         CR                600.00                          0.00              36                         540.00 Y
+                         NET             2,195.00                          0.00             257                         540.00 Y
+CARD ASSOCIATION FEES                                                                                                          Y
+                                                                                                                               Y
+                                                                           ITEM PERCENTAGE         PER ITEM                 FEEY
+DESCRIPTION                                              AMOUNT           COUNT       RATE             RATE              AMOUNTY
+VISA FEE                                                                                                                       Y
+VISA FEE   TOTALS                                                                                                        516.04Y
+M/C FEE                                                                                                                        Y
+M/C FEE    TOTALS                                                                                                        172.33Y
+DSCV FEE                                                                                                                       Y
+DSCV FEE   TOTALS                                                                                                          6.75Y
+                                                                                                                               Y
+TOTAL CARD ASSOCIATION FEES                                                                                              695.12Y
+AUTHORIZATION FEES                                                                                                             Y
+                                                                                                                               Y
+                                   NETWORK FEE  PROC FEE                                                                       Y
+DESCRIPTION                 ITEMS     PER ITEM  PER ITEM          FEE AMOUNT                                                   Y
+VISA                                                                                                                           Y
+WAT                        15,154                 0.1800            2,727.72                                                   Y
+MASTERCARD                                                                                                                     Y
+WAT                         3,638                 0.1800              654.84                                                   Y
+DISC CREDT                                                                                                                     Y
+WAT                           147                 0.1800               26.46                                                   Y
+AMEX                                                                                                                           Y
+WAT                           191                 0.1800               34.38                                                   Y
+AUTH FEES                                                                                                                      Y
+AUTH FEES                       1                 0.1800                0.18                                                   Y
+                                                                                                                               Y
+CREDIT CARD AUTHORIZATION FEES                                3,409.02                                                         Y
+OTHER CARD AUTHORIZATION FEES                                    34.56                                                         Y
+ECS AUTHORIZATION FEES                                            0.00                                                         Y
+EGC AUTHORIZATION FEES                                            0.00                                                         Y
+TOTAL AUTHORIZATION FEES                                      3,443.58                                                         Y
+OTHER FEES                                                                                                                     Y
+NON-TAXABLE ITEMS                                                                                                              Y
+DESCRIPTION                  ITEMS         RATE                                                                 TOTAL CHARGES  Y
+BILL STMT                         1      10.0000                                                                         10.00 Y
+NONPCI CHG                        1      45.0000                                                                         45.00 Y
+ASSOC COMP                        1       7.5000                                                                          7.50 Y
+MCPUSERFES                        1       5.0000                                                                          5.00 Y
+NXTDAY FND                        1       5.0000                                                                          5.00 Y
+                                                                                                                               Y
+                                                                              TOTAL NON-TAXABLE ITEMS                    72.50 Y
+                                                                                  TOTAL TAXABLE ITEMS                     0.00 Y
+                                                                                     TOTAL TAX AMOUNT                     0.00 Y
+                                                                                     TOTAL OTHER FEES                    72.50 Y

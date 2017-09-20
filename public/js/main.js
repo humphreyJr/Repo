@@ -104,8 +104,8 @@
     // Preloader
     function preloader() {
       $(window).load(function () {
-        $(".preloader").fadeOut()
-        $("body").removeClass("remove-scroll")
+        //$(".preloader").fadeOut()
+        //$("body").removeClass("remove-scroll")
       });
     }
     // A jQuery plugin that enables HTML5 placeholder behavior for browsers that aren’t trying hard enough yet

@@ -5,7 +5,7 @@
 			<h3>Agreement between user and www.slashmyfees.com</h3>  
 
 <p>
-Welcome to www.slashmyfees.com. The www.slashmyfees.com website (the "Site") is comprised of various web pages operated by Slash My Fees, Inc. ("SlashMyFees"). www.slashmyfees.com is offered to you conditioned on your acceptance without modification of the terms, conditions, and notices contained herein (the "Terms"). Your use of www.slashmyfees.com constitutes your agreement to all such Terms. Please read these terms carefully, and keep a copy of them for your reference.     
+Welcome to www.slashmyfees.com. The www.slashmyfees.com website (the "Site") is comprised of various web pages operated by SlashMyFees, Inc. ("SlashMyFees"). www.slashmyfees.com is offered to you conditioned on your acceptance without modification of the terms, conditions, and notices contained herein (the "Terms"). Your use of www.slashmyfees.com constitutes your agreement to all such Terms. Please read these terms carefully, and keep a copy of them for your reference.     
 </p>
 
 <p>
@@ -124,11 +124,11 @@ SlashMyFees reserves the right, in its sole discretion, to change the Terms unde
 <div style='font-weight: bold;'>Contact Us</div>  
 <p>SlashMyFees welcomes your questions or comments regarding the Terms:</p>     
 
-<div style='font-weight: bold;'>Slash My Fees, Inc.</div>  
+<div style='font-weight: bold;'>SlashMyFees, Inc.</div>  
 <div>830 Traction Ave #3A</div>  
 <div>Los Angeles, California 90012</div>        
 <div>Email Address:  info@slashmyfees.com</div>     
-<div>Telephone number:  424-202-0228</div>     
+<div>Telephone number:  800-240-0698</div>     
 <div style='height: 10px;'>
 
 </div>

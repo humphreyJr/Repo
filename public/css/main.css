@@ -41,7 +41,7 @@
 .navbar-custom .navbar-nav > .active > a,
 .navbar-custom .navbar-nav > .active > a:focus,
 .navbar-custom .navbar-nav > .active > a:hover {
-  color: #36d7b7;
+  color: #3baabd;
 }
 .navbar-custom .navbar-nav > .disabled > a,
 .navbar-custom .navbar-nav > .disabled > a:hover,
@@ -90,6 +90,25 @@
     color: #cccccc;
     background-color: transparent;
   }
+
+  .number_position {
+	padding-left: 20px;
+	float: left;	
+  }
+
+  .sign-in-padding {
+	padding-left: 0px;
+  }
+
+  .registration-step-1-box {
+  	top: 0px;  
+	height: 420px;
+  }
+
+  .registration-step-1-box-left {
+	padding-left: 20px;
+  }
+
 }
 .navbar-custom .navbar-link {
   color: #777777;
@@ -115,6 +134,24 @@
   .navbar-nav > li > a {
     padding-top: 20px;
     padding-bottom: 20px;
+  }
+
+  .number_position {
+	padding-left: 100px; 
+	float: right;	
+  }
+
+  .sign-in-padding {
+	padding-left: 14px;
+  }
+
+  .registration-step-1-box {
+  	top: -20px;  
+	height: 300px;
+  }
+
+  .registration-step-1-box-left {
+	padding-left: 60px;
   }
 }
 /************************************************
@@ -539,7 +576,7 @@ fieldset[disabled] .btn-link:focus {
 .promo .color-correction {
   position: absolute;
   z-index: 0;
-  background-color: rgba(45, 157, 231, 0.4);
+  /* background-color: rgba(45, 157, 231, 0.4); */
   width: 100%;
   height: 100%;
   top: 0;
@@ -558,7 +595,7 @@ fieldset[disabled] .btn-link:focus {
 .promo .register {
   padding: 20px;
   margin: 60px 0;
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: rgba(0, 0, 0, 0.6);
   color: #ffffff;
   text-align: center;
   position: relative;
@@ -884,7 +921,7 @@ fieldset[disabled] .btn-link:focus {
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(85, 85, 85, 0.9);
+  background-color: #3baabd;
 }
 .testimonials .carousel-caption {
   position: relative;
@@ -983,13 +1020,14 @@ fieldset[disabled] .btn-link:focus {
 ************************************************/
 .faq {
   padding: 60px 0;
-  background-color: #eeeeee;
+  background-color: #3baabd;
 }
 .faq h1 {
   margin-top: 40px;
+  color: #fff;
 }
 .faq hr {
-  border-top-color: #999999;
+  border-top-color: #fff;
 }
 .faq .panel-group {
   margin-bottom: 0;
@@ -1166,6 +1204,7 @@ fieldset[disabled] .btn-link:focus {
     font-size: 14px;
     line-height: 1.6;
   }
+
 }
 /************************************************
 *** main footer ***
@@ -1353,4 +1392,7 @@ fieldset[disabled] .btn-link:focus {
   overflow: hidden;
 }
 
-
+.bullet-trick li {
+	color: #3baabd;
+	font-size: 24px;
+}

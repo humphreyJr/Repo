@@ -5,6 +5,9 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
+use DB;
+use Session;
+use Response;
 
 class AdminController extends Controller
 {
@@ -18,6 +21,9 @@ class AdminController extends Controller
         $data = array();
         $data['page'] = 'home';
 
+		$leads = DB::table('users')->orderBy('id','desc')->get();
+		
+		$data['leads'] = $leads;
         return view('admin.index')->with( $data ); 
     }
 

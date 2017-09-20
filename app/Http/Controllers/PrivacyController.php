@@ -15,7 +15,12 @@ class PrivacyController extends Controller
      */
     public function index()
     {
-     	return view('privacy'); 
+        $data = array();
+        $data['page'] = 'privacy';
+        $data['title'] = 'SlashMyFees – Privacy Policy';
+        $data['description'] = 'SlashMyFees – Privacy Policy';
+
+     	return view('privacy')->with( $data ); 
     }
 
     /**

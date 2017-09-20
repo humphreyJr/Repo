@@ -58,6 +58,7 @@ function random_bytes($bytes)
      * generated in one invocation.
      */
     if ($bytes > 2147483647) {
+        $buf = '';
         for ($i = 0; $i < $bytes; $i += 1073741824) {
             $n = ($bytes - $i) > 1073741824
                 ? 1073741824
@@ -78,6 +79,6 @@ function random_bytes($bytes)
      * If we reach here, PHP has failed us.
      */
     throw new Exception(
-        'PHP failed to generate random data.'
+        'Could not gather sufficient random data'
     );
 }
